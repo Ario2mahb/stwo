@@ -3,7 +3,7 @@ members = ["crates/prover"]
 
 [workspace.package]
 version = "0.1.1"
-edition = "2021"
+edition = "23456"
 
 [workspace.dependencies]
 blake2 = "0.10.6"
